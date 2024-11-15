@@ -53,25 +53,25 @@ I describe myself as a passionate developer who loves coding, open source, and t
   <thead align="center">
     <tr border: none;>
       <td align="left"><b>Projects</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Issues</b></td>
+      <td align="right"><b>Stars</b></td>
+      <td align="right"><b>Forks</b></td>
+      <td align="right"><b>Issues</b></td>
     </tr>
   </thead>
   <tbody>
       <tr>
       <td>
         <a href="https://github.com/lannodev/angular-tailwind">
-          <b>Angular Tailwind</b>
+          Angular Tailwind
         </a>
       </td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/github/stars/lannodev/angular-tailwind?style=flat-square&labelColor=343b41&colorB=7c3aed">
       </td>
-      <td>
+      <td align="right">
         <img alt="Forks" src="https://img.shields.io/github/forks/lannodev/angular-tailwind?style=flat-square&labelColor=343b41&colorB=22c55e"/>
       </td>
-      <td>
+      <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/lannodev/angular-tailwind?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
     </tr>
@@ -84,13 +84,13 @@ I describe myself as a passionate developer who loves coding, open source, and t
           +200 Likes
         </a>
       </td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/github/stars/lannodev/we_slide?style=flat-square&labelColor=343b41&colorB=7c3aed">
       </td>
-      <td>
+      <td align="right">
         <img alt="Forks" src="https://img.shields.io/github/forks/lannodev/we_slide?style=flat-square&labelColor=343b41&colorB=22c55e"/>
       </td>
-      <td>
+      <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/lannodev/we_slide?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
     </tr>
@@ -100,13 +100,13 @@ I describe myself as a passionate developer who loves coding, open source, and t
           <b>Vue Resume</b>
         </a>
       </td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/github/stars/lannodev/vue-resume?style=flat-square&labelColor=343b41&colorB=7c3aed">
       </td>
-      <td>
+      <td align="right">
         <img alt="Forks" src="https://img.shields.io/github/forks/lannodev/vue-resume?style=flat-square&labelColor=343b41&colorB=22c55e"/>
       </td>
-      <td>
+      <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/lannodev/vue-resume?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
     </tr>
@@ -116,13 +116,13 @@ I describe myself as a passionate developer who loves coding, open source, and t
           <b>Night Storm (Vscode Theme)</b>
         </a>
       </td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/github/stars/lannodev/night-storm-theme?style=flat-square&labelColor=343b41&colorB=7c3aed">
       </td>
-      <td>
+      <td align="right">
         <img alt="Forks" src="https://img.shields.io/github/forks/lannodev/night-storm-theme?style=flat-square&labelColor=343b41&colorB=22c55e"/>
       </td>
-      <td>
+      <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/lannodev/night-storm-theme?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
     </tr>
@@ -136,13 +136,13 @@ I describe myself as a passionate developer who loves coding, open source, and t
             <img src="https://cdn-icons-png.flaticon.com/512/610/610333.png" width="20"/>
         </a>
       </td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/github/stars/lannodev/insomnia-plugin-theme-night-storm?style=flat-square&labelColor=343b41&colorB=7c3aed">
       </td>
-      <td>
+      <td align="right">
         <img alt="Forks" src="https://img.shields.io/github/forks/lannodev/insomnia-plugin-theme-night-storm?style=flat-square&labelColor=343b41&colorB=22c55e"/>
       </td>
-      <td>
+      <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/lannodev/insomnia-plugin-theme-night-storm?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
     </tr>
@@ -152,13 +152,13 @@ I describe myself as a passionate developer who loves coding, open source, and t
           <b>Neoretro Dark (Pegasus Theme)</b>
         </a>
       </td>
-      <td>
+      <td align="right">
         <img src="https://img.shields.io/github/stars/lannodev/neoretro?style=flat-square&labelColor=343b41&colorB=7c3aed">
       </td>
-      <td>
+      <td align="right">
         <img alt="Forks" src="https://img.shields.io/github/forks/lannodev/neoretro?style=flat-square&labelColor=343b41&colorB=22c55e"/>
       </td>
-      <td>
+      <td align="right">
         <img alt="Issues" src="https://img.shields.io/github/issues/lannodev/neoretro?style=flat-square&labelColor=343b41&colorB=e11d48"/>
       </td>
     </tr>
