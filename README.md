@@ -8,6 +8,14 @@ I describe myself as a passionate developer who loves coding, open source, and t
 <a href="mailto:workingluciano@gmail.com"><img height= "24" src= "https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--<a href="https://www.instagram.com/lanno__"><img height= "24" src= "https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 
+## Certifications
+<a href="https://www.credly.com/badges/a3fe204c-6975-4559-93e6-caa036615cba">
+    <img width="80" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
+</a>
+<a href="https://learn.microsoft.com/pt-br/users/lanno/credentials/fdf885dfbeedde47?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+    <img width="80" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
+</a>
+
 <h3>Things I code with</h3>
 <p>
     <img src= "https://img.shields.io/badge/Dart-ef4444?style=flat-square&logo=dart&logoColor=white">
@@ -154,10 +162,9 @@ I describe myself as a passionate developer who loves coding, open source, and t
   </tbody>
 </table>
 
-
 ## Support
 If you want to be kind to me, then consider buying me a beer.
 
-<a href="https://www.buymeacoffee.com/lanno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=lanno&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/lanno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=lanno&button_colour=545454&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 Thankyou!
