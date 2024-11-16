@@ -4,11 +4,11 @@
 <p>I'm <a href="https://lanno.dev">Luciano</a>, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil. </b><br>
 I describe myself as a passionate developer who loves coding, open source, and the web platform. I love brewing, to play guitar and one of my favourite film is Donnie Darko.</p>
 
-<a href="https://www.linkedin.com/in/lucianowork"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:workingluciano@gmail.com"><img height= "24" src= "https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!--<a href="https://www.instagram.com/lanno__"><img height= "24" src= "https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
+<a href="https://www.linkedin.com/in/lucianowork"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0e76a8"></a>
+<a href="mailto:me@lanno.dev"><img height= "24" src= "https://img.shields.io/badge/Email-8A2BE2"></a>
 
 <h3>Certifications</h3>
+
 <p>
     <a href="https://www.credly.com/badges/a3fe204c-6975-4559-93e6-caa036615cba">
         <img width="80" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
@@ -17,36 +17,6 @@ I describe myself as a passionate developer who loves coding, open source, and t
         <img width="80" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
     </a>
 </p>
-
-<!--
-<h3>Things I code with</h3>
-<p>
-    <img src= "https://img.shields.io/badge/Dart-ef4444?style=flat-square&logo=dart&logoColor=white">
-    <img src= "https://img.shields.io/badge/JavaScript-f97316?style=flat-square&logo=javascript&logoColor=white">
-    <img src= "https://img.shields.io/badge/C%23-f59e0b?style=flat-square&logo=c-sharp&logoColor=white">
-    <img src= "https://img.shields.io/badge/PHP-eab308?style=flat-square&logo=php&logoColor=white">
-    <img src= "https://img.shields.io/badge/TypeScript-84cc16?style=flat-square&logo=typescript&logoColor=white">
-    <img src= "https://img.shields.io/badge/Laravel-22c55e?style=flat-square&logo=laravel&logoColor=white">
-    <img src= "https://img.shields.io/badge/Flutter-10b981?style=flat-square&logo=flutter&logoColor=white">
-    <img src= "https://img.shields.io/badge/Angular-14b8a6?style=flat-square&logo=angular&logoColor=white">
-    <img src= "https://img.shields.io/badge/AngularJS-06b6d4?style=flat-square&logo=angularjs&logoColor=white">
-    <img src= "https://img.shields.io/badge/Bootstrap-0ea5e9?style=flat-square&logo=bootstrap&logoColor=white">
-    <img src= "https://img.shields.io/badge/Node.js-3b82f6?style=flat-square&logo=nodedotjs&logoColor=white">
-    <img src= "https://img.shields.io/badge/HTML5-6366f1?style=flat-square&logo=html5&logoColor=white">
-    <img src= "https://img.shields.io/badge/CSS3-8b5cf6?style=flat-square&logo=css3&logoColor=white">
-    <img src= "https://img.shields.io/badge/jQuery-a855f7?style=flat-square&logo=jquery&logoColor=white">
-    <img src= "https://img.shields.io/badge/SQLite-d946ef?style=flat-square&logo=sqlite&logoColor=white">
-    <img src= "https://img.shields.io/badge/MySQL-ec4899?style=flat-square&logo=mysql&logoColor=white">
-    <img src= "https://img.shields.io/badge/Microsoft_SQL-f43f5e?style=flat-square&logo=microsoft-sql-server&logoColor=white">
-    <img src= "https://img.shields.io/badge/VS_Code-f97316?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-    <img src= "https://img.shields.io/badge/Apache-f59e0b?style=flat-square&logo=apache&logoColor=white">
-    <img src= "https://img.shields.io/badge/Git-eab308?style=flat-square&logo=git&logoColor=white">
-    <img src= "https://img.shields.io/badge/Windows-84cc16?style=flat-square&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/-Brave-22c55e?style=flat-square&logo=brave&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Insomnia-10b981?style=flat-square&logo=insomnia&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind -0ea5e9?style=flat-square&logo=tailwind-css&logoColor=white" />
-<p>
--->
 
 <h3>Open Source Projects</h3>
 <table>
