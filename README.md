@@ -10,13 +10,9 @@ I describe myself as a passionate developer who loves coding, open source, and t
 <h3>Certifications</h3>
 
 <p>
-    <a href="https://www.credly.com/badges/a3fe204c-6975-4559-93e6-caa036615cba">
-        <img width="80" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
-    </a>
-    <a href="https://learn.microsoft.com/pt-br/users/lanno/credentials/fdf885dfbeedde47?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-        <img width="80" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
-    </a>
+    <a href="https://www.credly.com/badges/a3fe204c-6975-4559-93e6-caa036615cba"><img width="80" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/></a><a href="https://learn.microsoft.com/pt-br/users/lanno/credentials/fdf885dfbeedde47?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img width="80" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/></a>
 </p>
+
 
 <h3>Open Source Projects</h3>
 <table>
